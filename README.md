@@ -1,2 +1,0 @@
-# myBlogImages
-myBlogImages
